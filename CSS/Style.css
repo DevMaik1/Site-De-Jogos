@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  background-color: rgb(144, 89, 155);
+  color: white;
+  min-width: 320;
+  max-width: 1366;
+  margin: auto;
+}
+
+#TXTS4{
+  position: absolute;
+  top: 600px;
+  left: 160px;
+  text-decoration: none;
+  color: white;
+}
+
+#TS4{
+  position: absolute;
+  top: 300px;
+  left: 100px;
+  width: 200px;
+}
+
+#TXTDBZK{
+  position: absolute;
+  top: 600px;
+  left: 600px;
+  text-decoration: none;
+  color: white;
+}
+
+#IMG-DBZK{
+  position: absolute;
+  top: 300px;
+  left: 580px;
+  width: 205px;
+}
+
+#TXTRE7{
+  position: absolute;
+  top: 600px;
+  left: 1110px;
+  text-decoration: none;
+  color: white;
+}
+
+#IMG-RE7{
+  position: absolute;
+  top: 300px;
+  left: 1050px;
+  width: 210px;
+}
+
+
